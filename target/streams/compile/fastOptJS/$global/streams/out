@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mFast optimizing C:\Users\NGPGCA006913\Documents\Proyectos\scala_test\target\scala-2.12\scalajs_test-fastopt.js[0m
+[0m[[0mdebug[0m] [0mLinker: Compute reachability: 138336 us[0m
+[0m[[0mdebug[0m] [0mLinker: Assemble LinkedClasses: 506095 us[0m
+[0m[[0mdebug[0m] [0mBasic Linking: 659080 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Batch mode: true[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Incremental part: 86114 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizing 877 methods.[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: Optimizer part: 983120 us[0m
+[0m[[0mdebug[0m] [0mInc. optimizer: 1089719 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Compute reachability: 39642 us[0m
+[0m[[0mdebug[0m] [0mRefiner: Assemble LinkedClasses: 9090 us[0m
+[0m[[0mdebug[0m] [0mRefiner: 51643 us[0m
+[0m[[0mdebug[0m] [0mEmitter: Class tree cache stats: reused: 35 -- invalidated: 41[0m
+[0m[[0mdebug[0m] [0mEmitter: Method tree cache stats: resued: 0 -- invalidated: 105[0m
+[0m[[0mdebug[0m] [0mEmitter (write output): 240112 us[0m
+[0m[[0mdebug[0m] [0mGlobal IR cache stats: reused: 0 -- invalidated: 4 -- trees read: 259[0m
