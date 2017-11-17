@@ -4,5 +4,6 @@
 *.class
 *.log
 .idea
+.idea/workspace.xml
 
 # End of https://www.gitignore.io/api/scala
